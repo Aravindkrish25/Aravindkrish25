@@ -1,4 +1,15 @@
 # Hi there 👋, this is Aravind M
+<h3>Languages and Tools :hammer_and_wrench:</h3>
+<p>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
