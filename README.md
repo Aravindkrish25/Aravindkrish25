@@ -3,7 +3,6 @@
 <p>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
 <img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
