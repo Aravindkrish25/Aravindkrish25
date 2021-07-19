@@ -1,23 +1,26 @@
 # Hi there 👋, this is Aravind M
 <h3>Languages and Tools :hammer_and_wrench:</h3>
 <p>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
-<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
-<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"/>
+<img width="48" height="48" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1200px-HTML5_logo_black.svg.png"/>
+   <img width="45" height="48" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/>
+  <img width="45" height="48" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+ <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
+  <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
 
 </p>
-
-- 🔭 I’m currently working on ...
+- 🌱 I’m currently pursuing B.E. CSE at PSG College of Technology, Coimbatore .
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <!--
 **Aravindkrish25/Aravindkrish25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
