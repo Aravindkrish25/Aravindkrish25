@@ -8,11 +8,13 @@
 - 🤔 Interested in Problem Solving, Data Structures and Algorithms, and DBMS.
 
 ### Profile and Contact Info 📞
- <a href="https://www.hackerrank.com/aravindkrisna"><img width="100" height="40" hspace="10" src="https://user-images.githubusercontent.com/79631533/181044577-13d5850a-8182-4f09-833a-4bb837a05f86.png"></a>
-  <a href="https://www.leetcode.com/aravindkrisna"><img width="80" height="40" hspace="10" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"></a>
-  <a href="https://www.codechef.com/users/aravindkrish25"><img width="80" height="40" hspace="10" src="https://user-images.githubusercontent.com/79631533/181044001-1642b1a2-7462-4d37-906d-d715e797b21e.png"></a>
-  <a href="https://www.linkedin.com/in/aravind-m-252002/"><img width="80" height="40" hspace="10" src="https://user-images.githubusercontent.com/79631533/181044942-90597029-adda-4a9f-a001-fc4bbee7397e.png"></a>
-    <a href="[https://www.linkedin.com/in/aravind-m-252002/](https://twitter.com/Aravind74890053)"><img width="80" height="40" hspace="10" src="https://user-images.githubusercontent.com/79631533/181045538-99ce23a8-8598-4d9a-ad3a-1b638046231a.png"></a>
+<a href="https://www.linkedin.com/in/aravind-m-252002/" target="_blank"> <img height="30" src="icons/p1.svg"/> </a>
+<a href="mailto:aravindkrisna@gmail.com" target="_blank"> <img height="30" src="icons/p2.svg"/> </a>
+<a href="https://twitter.com/Aravind74890053" target="_blank"> <img height="27" src="icons/p3.png"/> </a>
+<a href="https://www.hackerrank.com/aravindkrisna" target="_blank"> <img height="27" src="icons/p4.png"/> </a>
+<a href="https://www.leetcode.com/aravindkrisna"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50" height="40" hspace="10"></a>
+<a href="https://www.codechef.com/users/aravindkrish25" target="_blank"> <img height="40" src="icons/p5.png"/> </a>
+
 
 <h3>Languages and Tools :hammer_and_wrench:</h3>
 <p>
