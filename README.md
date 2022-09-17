@@ -13,7 +13,6 @@
 <a href="https://twitter.com/Aravind74890053" target="_blank"> <img height="27" src="icons/p3.png"/> </a>
 <a href="https://www.hackerrank.com/aravindkrisna" target="_blank"> <img height="27" src="icons/p4.png"/> </a>
 <a href="https://www.leetcode.com/aravindkrisna"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50" height="40" hspace="10"></a>
-<a href="https://www.codechef.com/users/aravindkrish25" target="_blank"> <img height="40" src="icons/p5.png"/> </a>
 
 
 <h3>Languages and Tools :hammer_and_wrench:</h3>
