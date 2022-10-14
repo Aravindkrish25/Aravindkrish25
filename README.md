@@ -1,9 +1,10 @@
 # Hi there 👋, This is Aravind M‼️
 - 🌱 I’m currently pursuing B.E. CSE at PSG College of Technology, Coimbatore.
-- 🔭 I’m currently looking for Campus Placements.
+- 🔭 I’m currently looking for Spring Interships 2023.
 - 🎯 I’m currently practicing DSA.
 - 🏅 Got 6 ⭐ in Problem Solving @ <a href="https://www.hackerrank.com/aravindkrisna">HackerRank</a>
 - 🎖️ Got 5 ⭐ in Python Programming @ <a href="https://www.hackerrank.com/aravindkrisna">HackerRank</a>
+- 5️⃣✖️💯 + Problems solved @ LeetCode 🧑‍💻🎯
 - 🧑‍💻 Solving daily challenges @ <a href="https://leetcode.com/aravindkrisna">LeetCode</a>
 - 🤔 Interested in Problem Solving, Data Structures and Algorithms, and DBMS.
 
