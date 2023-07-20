@@ -1,10 +1,13 @@
 # Hi there 👋, This is Aravind M‼️
-- 🌱 I’m currently pursuing B.E. CSE at PSG College of Technology, Coimbatore.
+- 🎓 I'm a CS Graduate with keen interest in problem-solving, and coding.
+- 👜 I completed 6-month internship as SDE Intern at Walmart Global Tech India, Bengaluru.
+- ✨
 - 🎯 I’m currently practicing DSA.
 - 🏅 Got 6 ⭐ in Problem Solving @ <a href="https://www.hackerrank.com/aravindkrisna">HackerRank</a>
 - 🎖️ Got 5 ⭐ in Python Programming @ <a href="https://www.hackerrank.com/aravindkrisna">HackerRank</a>
-- 💡 **600** + Problems solved @ LeetCode 🧑‍💻🎯
-- 🧑‍💻 Solving daily challenges @ <a href="https://leetcode.com/aravindkrisna">LeetCode</a>
+- 💡 **750** + Problems solved @ LeetCode 🧑‍💻🎯
+- 🧑‍💻 Solving daily challenges @ <a href="https://leetcode.com/aravindkrisna">LeetCode</a> ⌨️
+- 🤓 University Rank 1 in Problem Solving @ <a href="https://practice.geeksforgeeks.org/problem-of-the-day"> GeeksforGeeks </a> ⚒️
 - 🤔 Interested in Problem Solving, Data Structures and Algorithms, and DBMS.
 
 ### Profile and Contact Info 📞
