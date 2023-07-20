@@ -1,4 +1,4 @@
-# Hi there 👋, This is Aravind M‼‼
+# Hi there 👋, This is Aravind M 👨‍🎓
 - 🎓 I'm a CS Graduate with keen interest in problem-solving, and coding.
 - 👜 I completed 6-month internship as SDE Intern at Walmart Global Tech India, Bangalore📍
 - 🎯 I’m currently practicing DSA.
